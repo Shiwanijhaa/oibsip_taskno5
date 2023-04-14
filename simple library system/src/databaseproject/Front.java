@@ -7,10 +7,7 @@ package databaseproject;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author KAUSTABH
- */
+
 public class Front extends javax.swing.JFrame {
 
     /**
